@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+//console.log("fuck you node de mes deux");
+>>>>>>> ce91ca6 (Les listes de projets à faire)
 const express = require("express");
 const mysql = require("mysql");
 const port = 5000;
